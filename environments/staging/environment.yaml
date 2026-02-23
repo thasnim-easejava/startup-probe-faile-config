@@ -7,7 +7,6 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   version: "58ccd3e9-0b11-4df1-8e35-18b50f4f364f"
-  startupTimeout: 600
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
